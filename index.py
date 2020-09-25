@@ -102,3 +102,32 @@ print(myset)
 print("_"*50)
 print("#"*40)
 print("#"*40)
+#Conversion 
+#code of convert set , list , dic , string to Tuple 
+print("_"*50)
+print("#"*40)
+print("#"*40)
+#Input from user
+fname=input("Enter your frist name .. ")
+sname=input("Enter your second name .. ")
+#strip method to privent the space 
+print(f"hello {fname.strip()} {sname} happy to see you ." )
+print("_"*50)
+print("#"*40)
+print("#"*40)
+#email slice practical 
+email="soso-19980@hotmail.com"
+print(email[0:email.index("@")])
+print("_"*50)
+print("_"*50)
+Name=input("What is your name ?")
+Email=input("What is your email ?")
+username=Email[0:Email.index("@")]
+website=Email[Email.index("@")+1:]
+print(f"Your name is :{Name}  " )
+print(f"Your Username is :{username} and Your website is : {website}")
+print("_"*50)
+print("_"*50)
+
+
+
