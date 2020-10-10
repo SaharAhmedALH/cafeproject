@@ -27,8 +27,6 @@ img{
   margin-right: auto;
   width:60%
 
-
-
  }
  #form{
 color: white;
@@ -41,7 +39,11 @@ color: white;
   padding-top: 10px;
   padding-bottom:  10px;
   background-color: #41444b;
-   
+ }
+ input{ 
+ 	-webkit-box-shadow: 20px 28px 20px 3px rgba(0,0,0,0.75);
+-moz-box-shadow: 20px 28px 20px 3px rgba(0,0,0,0.75);
+box-shadow: 20px 28px 20px 3px rgba(0,0,0,0.75);
 
  }
 
