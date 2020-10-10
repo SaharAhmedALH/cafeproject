@@ -1,0 +1,47 @@
+
+body{
+	background-color:#f6f4e6;
+}
+#head{
+
+	background-color:#fddb3a;
+	text-align: center;
+	margin:40px;
+	-webkit-box-shadow: 14px 21px 12px 5px rgba(0,0,0,0.75);
+-moz-box-shadow: 14px 21px 12px 5px rgba(0,0,0,0.75);
+box-shadow: 14px 21px 12px 5px rgba(0,0,0,0.75);
+ padding-top: 10px;
+  padding-bottom:  10px;
+
+}
+h1{ font-family: 'Pacifico', cursive; 
+font-size:30px;
+text-align: center;}
+p{font-family: 'Chilanka', cursive;}
+
+img{
+ 
+  height:350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:60%
+
+
+
+ }
+ #form{
+color: white;
+ text-align: center;
+  border: 2px solid #41444b;
+  border-radius: 5px;
+  margin-left: 100px;
+  margin-right:100px;
+  margin-top:10px;
+  padding-top: 10px;
+  padding-bottom:  10px;
+  background-color: #41444b;
+   
+
+ }
+
